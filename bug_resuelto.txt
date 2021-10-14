@@ -1,1 +1,4 @@
 bug resuelto.
+
+Actualización:
+Otro bug ha aparecido por resolver el bug anterior.

@@ -19,6 +19,5 @@ Práctica en la se hace uso de las herramientas de la importación de datos disp
 * <b> S5_Estadística </b> <br>
   En esta práctica se práctican conceptos de estádistica básica en matlab.
 
-
 * <b> S6_FFT </b> <br>
 Se construye de manera didactica el proceso de las "fast furier transform".
